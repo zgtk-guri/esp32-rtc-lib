@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map RTC Library for ESP32
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RTC     KEYWORD1
+DS1307  KEYWORD1
+DS3231  KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+isAvailable         KEYWORD2
+writeTimeToRTC      KEYWORD2
+readTimeFromRTC     KEYWORD2
+syncTimeFromRTC     KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
